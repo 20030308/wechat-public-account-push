@@ -60,7 +60,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "自己",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oKuZB50GBhhDUcKvVqkrEaX6QtkE",
       // 你想对他发送的模板消息的模板ID
@@ -96,7 +96,7 @@ export const config = {
     },
     {
       name: "灿宝",
-      id: "oKuZB50GBhhDUcKvVqkrEaX6QtkE",
+      id: "oKuZB5z_fPQT091_jIWbg67AMhTU",
       useTemplateId: "	mJNJfL4m5Bfbqyqu-99P9TvhKH1WXlSWklQ2NvcFRuY",
       province: "山东",
       city: "烟台",
@@ -107,7 +107,7 @@ export const config = {
       customizedDateList: [{"keyword": "love_day", date: "2021-12-20"},]
     },
     {
-      name: "老婆2",
+      name: "2",
       id: "",
       useTemplateId: "",
       province: "",
@@ -119,7 +119,7 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "老婆3",
+      name: "3",
       id: "",
       useTemplateId: "",
       province: "",
