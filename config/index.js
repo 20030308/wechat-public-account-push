@@ -97,7 +97,7 @@ export const config = {
     {
       name: "灿宝",
       id: "oKuZB5z_fPQT091_jIWbg67AMhTU",
-      useTemplateId: "	mJNJfL4m5Bfbqyqu-99P9TvhKH1WXlSWklQ2NvcFRuY",
+      useTemplateId: "mJNJfL4m5Bfbqyqu-99P9TvhKH1WXlSWklQ2NvcFRuY",
       province: "山东",
       city: "烟台",
       horoscopeDate: '10-03',
