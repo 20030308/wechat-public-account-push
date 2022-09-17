@@ -95,16 +95,16 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      name: "灿宝",
+      id: "oKuZB50GBhhDUcKvVqkrEaX6QtkE",
+      useTemplateId: "	mJNJfL4m5Bfbqyqu-99P9TvhKH1WXlSWklQ2NvcFRuY",
+      province: "山东",
+      city: "烟台",
+      horoscopeDate: '10-03',
+      horoscopeDateType: '今日',
+      openUrl: "https://github.com",
       festivals: [],
-      customizedDateList: []
+      customizedDateList: [{"keyword": "love_day", date: "2021-12-20"},]
     },
     {
       name: "老婆2",
@@ -139,7 +139,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "",
+  CALLBACK_TEMPLATE_ID: "EQmAC9dDEZs9O-gGRSE1Q8salNe-TZPM3_oCXzfabUQ",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -147,7 +147,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "oKuZB50GBhhDUcKvVqkrEaX6QtkE",
     },
     // 你可以不断按格式往下增加
     // ...
