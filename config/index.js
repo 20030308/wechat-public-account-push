@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oKuZB50GBhhDUcKvVqkrEaX6QtkE",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "YafF5rzFl3i5irCEeehLOoB5MhIi8A_Q--f9TVjrdZI",
+      useTemplateId: "yZnOORwPpETliEvyu4rfaN0FCaDyl0av4pHSyaSwhmw",
       // 所在省份
       province: "山东",
       // 所在城市
@@ -97,7 +97,7 @@ export const config = {
     {
       name: "灿宝",
       id: "oKuZB5z_fPQT091_jIWbg67AMhTU",
-      useTemplateId: "bDUkB9SltriJrIhPldsoIWPuYjy0aw1GTLlVGEaTmfg",
+      useTemplateId: "S-unBSDqooArBVDj3lT69eV0Q_lVJbVhYtPwRUqFcsc",
       province: "山东",
       city: "烟台",
       horoscopeDate: '10-03',
